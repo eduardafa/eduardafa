@@ -35,6 +35,6 @@ I am a Civil Engineer and Master's student in Simulation and Management of Oil R
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardafa&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&show_icons=true" alt="eduardafa" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardafa&count_private=true&theme=radical&show_icons=true" alt="eduardafa" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=eduardafa&count_private=true&theme=radical" alt="eduardafa" /></p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafa&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" alt="eduardafa" /></p> -->
