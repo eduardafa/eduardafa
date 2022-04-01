@@ -14,7 +14,7 @@ I am a Civil Engineer and Master's student in Simulation and Management of Oil R
 <p align="center">
 <a href="https://linkedin.com/in/eduardandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardandrade" height="30" width="40" /></a>
 <a href="https://dev.to/eduardafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduardafa" height="30" width="40" /></a>
-<a href="mailto:eduardafandrade@gmail.com" target="blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504727.png?token=exp=1648241214~hmac=1b69f994e1655f15db65d3a45b8f22a6" alt="eduardafa" height="35" width="35" /></a>
+<a href="mailto:eduardafandrade@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="eduardafa" height="35" width="35" /></a>
 <a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="eduardafa" height="30" width="40" /></a>
 </p>
 
