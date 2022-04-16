@@ -5,7 +5,7 @@ I am a Civil Engineer and Master's student in Simulation and Management of Oil R
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardafa&label=Profile%20views&color=0e75b6&style=flat" alt="eduardafa" /> </p>
 
-- 🌱 I’m currently learning **JavaScript / MySQL / Node.js**
+- 🌱 I’m currently learning **JavaScript / Node.js / MySQL / MongoDB**
 
 - 👨‍💻 Some of my projects are available at my portfolio: **https://eduardafranca.netlify.app/**
 
