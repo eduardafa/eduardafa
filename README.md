@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Eduarda França!</h1>
 <h3 align="center">A continuous, passionate and dedicated Full Stack Development student.</h3>
 
-I am a Civil Engineer and Master's student in Simulation and Management of Oil Reservoirs (UFPE) in career change to Full Stack Development and looking for my first opportunity in Tech. 
+I am a Civil Engineer and Master's student in Simulation and Management of Oil Reservoirs (UFPE) in career change to Full Stack Development and looking for my first opportunity in IT. 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=eduardafa&label=Profile%20views&color=0e75b6&style=flat" alt="eduardafa" /> </p>
 
