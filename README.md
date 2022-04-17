@@ -28,8 +28,10 @@ I am a Civil Engineer and Master's student in Simulation and Management of Oil R
   <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <!--   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> -->
   <br>
+  
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="100"/> 
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="100"/>
+  <img align="center" src="https://symbols.getvecta.com/stencil_88/103_mongodb.d91e0a5f7c.svg" alt="mongodb" width="100" height="120"/>
 </div>
 <br>
 
