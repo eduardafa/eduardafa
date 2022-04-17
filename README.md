@@ -26,7 +26,7 @@ const eduardaFranca = {
     editors: ['Vscode', 'WebStorm'],
     platforms: ['GNU/Linux', 'Windows'],
     inProgress:
-        'I am participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Magalu.',
+        'I am participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Magalu',
 };
 ```
 
