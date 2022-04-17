@@ -32,7 +32,7 @@ const eduardaFranca = {
 
 - 👨‍💻 Some of my projects are available at my portfolio: **https://eduardafranca.netlify.app/**
 
-- 📄 To know about my experiences, take a peek in my resume: **https://resume-eduardafranca.netlify.app**
+- 📑 To know about my experiences, take a peek in my resume: **https://resume-eduardafranca.netlify.app**
 
 <hr>
 <h3 align="center">💻 Connect with me 👩🏻‍💻</h3>
