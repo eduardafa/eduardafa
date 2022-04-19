@@ -27,7 +27,7 @@ const eduardaFranca = {
     platforms: ['GNU/Linux', 'Windows'],
     interests: ['Elixir', 'Rust', 'Java'],
     inProgress:
-        'I'm participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Luizalabs',
+        'Im participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Luizalabs',
 };
 ```
 
