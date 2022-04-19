@@ -25,8 +25,9 @@ const eduardaFranca = {
     databases: ['MySQL', 'MongoDB'],
     editors: ['Vscode', 'WebStorm'],
     platforms: ['GNU/Linux', 'Windows'],
+    interests: ['Elixir', 'Rust', 'Java'],
     inProgress:
-        'I am participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Magalu',
+        'I'm participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Luizalabs',
 };
 ```
 
