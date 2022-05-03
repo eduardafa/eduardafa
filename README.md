@@ -71,6 +71,10 @@ const eduardaFranca = {
 <hr>
 <h3 align="center">📊 GitHub Stats 📈</h3>
 <br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center"><img src="https://github-readme-stats-eduardafa.vercel.app/api/top-langs/?username=eduardafa&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&show_icons=true&hide=smarty,c%2B%2B,shell,perl,pug" alt="eduardafa" /></p>
 
 <p align="center"><img src="https://github-readme-stats-eduardafa.vercel.app/api?username=eduardafa&count_private=true&theme=radical" alt="eduardafa" /></p>
