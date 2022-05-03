@@ -19,10 +19,10 @@ I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in 
 
 ```javascript
 const eduardaFranca = {
-    programmingLanguages: ['Javascript', 'MATLAB'],
+    programmingLanguages: ['Javascript', 'Typescript', 'MATLAB'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
-    databases: ['MySQL', 'MongoDB'],
+    databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
     editors: ['Vscode', 'WebStorm'],
     platforms: ['GNU/Linux', 'Windows'],
     interests: ['Elixir', 'Rust', 'Java'],
