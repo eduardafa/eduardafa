@@ -73,6 +73,13 @@ const eduardaFranca = {
 <br>
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   8 hrs 30 mins   ██████████████░░░░░░░░░░░   56.39 %
+Markdown     5 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   35.24 %
+Other        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://github-readme-stats-eduardafa.vercel.app/api/top-langs/?username=eduardafa&count_private=true&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321&show_icons=true&hide=smarty,c%2B%2B,shell,perl,pug" alt="eduardafa" /></p>
