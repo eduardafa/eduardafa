@@ -71,7 +71,7 @@ const eduardaFranca = {
 <hr>
 <h3 align="center">📊 GitHub Stats 📈</h3>
 <br>
-
+ 
 <!--START_SECTION:waka-->
 
 ```text
@@ -86,6 +86,9 @@ Other        41 mins         █░░░░░░░░░░░░░░░░
 
 <p align="center"><img src="https://github-readme-stats-eduardafa.vercel.app/api?username=eduardafa&count_private=true&theme=radical" alt="eduardafa" /></p>
 
+<p align="center">
+<img src="https://wakatime.com/share/@4ad3554f-f342-4364-918e-3a86e91ec684/ba2672c7-809e-4af4-bbd3-a9d622388eb1.svg" width="50%">
+</p>
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafa&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" alt="eduardafa" /></p> -->
 
