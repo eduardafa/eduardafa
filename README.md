@@ -75,9 +75,9 @@ const eduardaFranca = {
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 30 mins   ██████████████░░░░░░░░░░░   56.39 %
-Markdown     5 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   35.24 %
-Other        42 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+JavaScript   9 hrs 42 mins   ███████████████▓░░░░░░░░░   62.73 %
+Markdown     4 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   28.82 %
+Other        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
