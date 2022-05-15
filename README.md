@@ -19,7 +19,8 @@ I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in 
 
 ```javascript
 const eduardaFranca = {
-    programmingLanguages: ['Javascript', 'Typescript', 'MATLAB', 'Golang'],
+    programmingLanguages: ['Javascript', 'MATLAB'],
+    currentLearning: ['Typescript', 'Golang'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
