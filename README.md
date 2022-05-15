@@ -19,7 +19,7 @@ I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in 
 
 ```javascript
 const eduardaFranca = {
-    programmingLanguages: ['Javascript', 'Typescript', 'MATLAB'],
+    programmingLanguages: ['Javascript', 'Typescript', 'MATLAB', 'Golang'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
     databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
@@ -53,6 +53,7 @@ const eduardaFranca = {
 <div align="center" style="display: inline_block">
   <br>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="linux" width="45" height="45"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
