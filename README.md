@@ -7,9 +7,9 @@
   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="5%"/>
 </h1>
 
-<h3 align="center">A continuous, passionate and dedicated Full Stack Development student.</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
+<h3 align="center">A continuous, passionate and dedicated Back-End Developer.</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
 
-I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in Simulation and Management of Oil Reservoirs at the Federal University of Pernambuco (UFPE) and I am in a career change to Full Stack Development. 
+I am a Civil Engineer, Specialist in Concrete Structures, Master in Simulation and Management of Oil Reservoirs for the Federal University of Pernambuco (UFPE). After a career change process, I'm a Back-End Developer. 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=eduardafa&label=Profile%20views&color=0e75b6&style=flat" alt="eduardafa" /> </p>
 
@@ -20,16 +20,14 @@ I am a Civil Engineer, Specialist in Concrete Structures, a Master's student in 
 
 ```javascript
 const eduardaFranca = {
-    programmingLanguages: ['Javascript', 'MATLAB'],
-    currentLearning: ['Typescript', 'Golang'],
+    programmingLanguages: ['Golang', 'Javascript', 'MATLAB'],
+    currentLearning: ['Python'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
-    databases: ['MySQL', 'PostgreSQL', 'MongoDB'],
-    editors: ['Vscode', 'WebStorm'],
+    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
+    editors: ['GoLand', 'Vscode', 'WebStorm'],
     platforms: ['GNU/Linux', 'Windows'],
-    interests: ['Elixir', 'Rust', 'Java'],
-    inProgress:
-        'Im participating in two IT programs: Desenvolve promoted by Boticário Group and Luiza <code> promoted by Luizalabs',
+    interests: ['Elixir'],
 };
 ```
 
@@ -42,10 +40,9 @@ const eduardaFranca = {
 <div>
   <br>
 <p align="center">
-<a href="https://linkedin.com/in/eduardandrade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardandrade" height="30" width="40" /></a>
-<a href="https://dev.to/eduardafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="eduardafa" height="30" width="40" /></a>
-<a href="mailto:eduardafandrade@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="eduardafa" height="35" width="35" /></a>
-<a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="eduardafa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eduardandrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eduardandrade"/></a>
+<a href="mailto:eduarda@asklisa.com.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eduardafr"/></a>
+<a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="eduardafr"/></a>
 </p><br>
 </div>
 
@@ -88,9 +85,9 @@ const eduardaFranca = {
 
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eduardafa&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&bg_color=141321" alt="eduardafa" /></p> -->
 
-<details>
+<!--<details>
   <summary align="center">⚡ More stats ⚡</summary>
     <br>
     <p align="center"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eduardafa&theme=radical" /></p>
     <img src="https://activity-graph.herokuapp.com/graph?username=eduardafa&theme=react-dark&bg_color=141321&hide_border=true" width="100%"/>
-</details>
+</details>-->
