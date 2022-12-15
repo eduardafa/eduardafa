@@ -21,7 +21,7 @@ I am a Civil Engineer, Specialist in Concrete Structures, Master in Simulation a
 ```javascript
 const eduardaFranca = {
     programmingLanguages: ['Golang', 'Javascript', 'MATLAB'],
-    currentLearning: ['Python'],
+    currentLearning: ['Python', 'Docker'],
     tools: ['Node.JS', 'Express'],
     otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
     databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
