@@ -15,6 +15,7 @@ I am a Civil Engineer, Specialist in Concrete Structures, Master in Simulation a
 
 <!-- - 🌱 I’m currently learning **JavaScript / Node.js / MySQL / MongoDB**
  -->
+<a href="https://wakatime.com/@4ad3554f-f342-4364-918e-3a86e91ec684"><img src="https://wakatime.com/badge/user/4ad3554f-f342-4364-918e-3a86e91ec684.svg" alt="Total time coded since Apr 17 2022" /></a>
 
 <hr>
 
