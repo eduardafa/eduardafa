@@ -40,8 +40,8 @@ const eduardaFranca = {
   <br>
 <p align="center">
 <a href="https://linkedin.com/in/eduardandrade" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eduardandrade"/></a>
-<a href="mailto:eduarda@asklisa.com.br" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eduardafr"/></a>
-<a href="https://api.whatsapp.com/send?phone=+5586999691842&text=Oi! Podemos conversar?" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="eduardafr"/></a>
+<a href="mailto:eduardafandrade@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eduardafr"/></a>
+<a href="https://api.whatsapp.com/send?phone=+17097490189&text=Hey! Podemos conversar?" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="eduardafr"/></a>
 </p><br>
 </div>
 
