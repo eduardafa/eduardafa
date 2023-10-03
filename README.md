@@ -9,7 +9,7 @@
 
 <h1>Eduarda França 🇧🇷🇨🇦🏳️‍🌈</h1>
 <!-- <h3 align="center">A continuous, passionate and dedicated software developer.</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /> -->
-<h3>Software Developer at Enaimco</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
+<h3>Software Developer @enaimco</h3><img width="10%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" />
 
 <!-- I am a Civil Engineer, Specialist in Concrete Structures, Master in Simulation and Management of Oil Reservoirs for the Federal University of Pernambuco (UFPE). After a career change process, I'm a Back-End Developer.  -->
 
