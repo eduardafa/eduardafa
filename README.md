@@ -19,17 +19,34 @@
 
 <hr>
 
-```javascript
-const eduardaFranca = {
-    programmingLanguages: ['Golang', 'Typescript', 'Javascript', 'MATLAB'],
-    currentLearning: ['React', 'Docker'],
-    tools: ['Node.JS', 'Express'],
-    otherLanguages: ['HTML', 'CSS', 'Bash', 'Json', 'Markdown'],
-    databases: ['MongoDB', 'MySQL', 'PostgreSQL'],
-    editors: ['GoLand', 'Vscode', 'WebStorm'],
-    platforms: ['GNU/Linux', 'Windows', 'MacOS'],
-    interests: ['Elixir', 'Rust'],
-};
+```go
+package main
+
+import "fmt"
+
+type Profile struct {
+	ProgrammingLanguages []string
+	Technologies         []string
+	DataFormats          []string
+	Scripting            []string
+	Databases            []string
+	Editors              []string
+	Platforms            []string
+}
+
+func main() {
+	eduardaFranca := Profile{
+		ProgrammingLanguages: []string{"Golang", "Typescript", "Javascript", "Python", "MATLAB"},
+		Technologies:         []string{"React", "Express", "Docker", "Terraform", "Node.js"},
+		DataFormats:          []string{"YAML", "JSON", "HTML", "CSS", "Markdown"},
+		Scripting:            []string{"Bash"},
+		Databases:            []string{"MongoDB"},
+		Editors:              []string{"GoLand", "Vscode", "WebStorm", "Cursor"},
+		Platforms:            []string{"GNU/Linux", "Windows", "MacOS"},
+	}
+
+	fmt.Printf("%+v\n", eduardaFranca)
+}
 ```
 
 <details>
@@ -48,10 +65,11 @@ const eduardaFranca = {
   <summary><strong>🛠 Languages, Frameworks & Tools ⚙️🔧</strong></summary>
 <div align="center" style="display: inline_block">
   <br>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="linux" width="45" height="45"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="python" width="45" height="45"/>
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="linux" width="45" height="45"/>
   <img align="center" alt="React-Icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -60,10 +78,14 @@ const eduardaFranca = {
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <br>
   
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="120" height="100"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>  
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="70"/>
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/githubactions/githubactions-original.svg" alt="github-actions" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="70"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/vitejs/vitejs-original.svg" alt="vitejs" width="40" height="40"/>
 
 </div>
 
